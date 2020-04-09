@@ -1,0 +1,7 @@
+dist: xenial
+language: java
+addons:
+  apt:
+    packages:
+      - ant
+script:Toster.java
